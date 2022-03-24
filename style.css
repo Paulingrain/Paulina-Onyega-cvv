@@ -1,0 +1,15 @@
+.container{
+    margin: 0px auto;
+    background-color:white;
+}
+
+.education{
+    font: weight 10px;;
+}
+
+.button{
+    margin-top: 10px;
+}
+.input{
+    padding: 15px;
+}
